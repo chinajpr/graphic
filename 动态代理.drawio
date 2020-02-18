@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-18T09:52:24.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="R_4dp_hLfR6jtmTqvCNt" version="12.7.1" type="github">
+<mxfile host="www.draw.io" modified="2020-02-18T10:05:48.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="ysB-3b2CaAnaJwru54_e" version="12.7.1" type="github">
   <diagram id="MHq9OHMaoU9Sz3Vz_Z7G" name="第 1 页">
     <mxGraphModel dx="1138" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="OAPL3QplopD_ebEAN0Aj-8" value="反射替换接口、反射替换对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="360" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jgPtFlclUehhWHHOGj_N-1" value="- 运行时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jgPtFlclUehhWHHOGj_N-1" value="- 动态性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="439" y="200" width="51" height="20" as="geometry" />
         </mxCell>
       </root>
