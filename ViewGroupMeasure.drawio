@@ -1,1 +1,70 @@
-<mxfile host="www.draw.io" modified="2020-02-18T09:22:20.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" version="12.7.1" etag="S_veUfKq0AkwP2KIL-eV" type="github"><diagram id="bZUlME0eTptcdykSsufi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-18T09:22:51.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="9ZEsOxWfF4_cRcAbEsOu" version="12.7.1" type="github">
+  <diagram id="bZUlME0eTptcdykSsufi" name="第 1 页">
+    <mxGraphModel dx="1138" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-2" target="NbNfdL-D5kj2b39tf7Ea-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-2" value="自定义ViewGroup的onMeasure()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-6" target="NbNfdL-D5kj2b39tf7Ea-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-6" target="NbNfdL-D5kj2b39tf7Ea-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-6" value="&lt;span&gt;测量子View&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-8" target="NbNfdL-D5kj2b39tf7Ea-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-8" value="&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;measureChild()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;lt;自定义VG中的onMeasure自己调用&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-10" target="NbNfdL-D5kj2b39tf7Ea-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-10" value="&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;measureChildWithMargins()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;font face=&quot;microsoft yahei, stxihei&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;lt;自定义VG中的onMeasure自己调用&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-12" value="&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;getChildMeasureSpec(0, 0, 0)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(86 , 90 , 95) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px ; text-align: justify ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;根据父容器的MeasureSpec的模式再结合子元素的LayoutParams属性来得出子元素的MeasureSpec属性&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-14" target="NbNfdL-D5kj2b39tf7Ea-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-14" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-15" value="child.measure(该方法在View.java中)" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-16" value="onMeasure()(回调child的onMeasure方法)" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="750" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNfdL-D5kj2b39tf7Ea-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbNfdL-D5kj2b39tf7Ea-18" value="&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;measureChildren()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;white-space: pre-wrap ; text-align: left ; line-height: 1.75 ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;lt;自定义VG中的onMeasure自己调用&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="260" width="140" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
